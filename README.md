@@ -1,6 +1,6 @@
 # Torque_from_Force
 
-make system to convert world force vector to world Torque vector in articulation body
+Made a system to convert "Force" vector to "Torque" vector in articulation body
 
 video link https://youtu.be/Ao1GrxNhsqA
 
